@@ -7,3 +7,6 @@ dist/
 .venv/
 venv/
 .impeccable/
+.coverage
+coverage.xml
+.coverage.*
